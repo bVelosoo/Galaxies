@@ -38,6 +38,7 @@ p {
   font-size: 2rem;
   font-weight: 600;
   color: #c4c4cc;
+  padding-top: 2.4rem;
 }
 .pad {
   padding: 2.4rem 2.2rem 3.8rem 2.2rem;
@@ -49,12 +50,7 @@ p {
   width: 36.6rem;
   height: 44.8rem;
 }
-.div-1,
-.div-2,
-.div-3,
-.div-4,
-.div-5,
-.div-6 {
+.card {
   background-color: #202024;
   border: 1px solid #323238;
   border-radius: 8px;
